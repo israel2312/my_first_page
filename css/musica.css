@@ -1,0 +1,127 @@
+header a.titulogaleria{
+	
+	color:black;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	
+
+}
+nav li{ 
+    display:inline-block; 
+    padding: 1.1em; 
+} 
+a.titulogaleria:hover{
+    color: yellow;
+
+
+
+}
+h1{
+	line-height: 3em;
+}
+.titulogaleria{
+	text-decoration: none;
+}
+
+
+h2{
+	color:black;
+	text-align: center;
+
+}
+
+ul{
+	list-style-type:none; 
+
+}
+
+#wrapper{
+	max-width: 900px;
+	margin: 0 auto;
+	background-image: url(https://newevolutiondesigns.com/images/freebies/retro-wallpaper-35.jpg);
+	}
+header{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRAVl7e31_U-umrddPwq5aML8S2zzSogV_yCU6BfHS3XhjEg_eA);
+}
+	
+}
+
+img{
+	width: 400px;
+	height: 500px;
+	border-radius: 23px;
+}
+
+nav ul{
+	text-align: center;
+	text-decoration: none;
+	font-family: COURIER NEW;
+}
+nav a.datosnav{
+	color: black;
+	
+}
+nav a.datosnav:hover{
+	color: yellow;
+}
+
+
+
+.bandas{
+	text-align: center;
+}
+
+.pabandas{
+	text-align: center;
+	font-family: COURIER NEW;
+	font-size: 100px;
+	color: yellow;
+}
+
+
+p.pabandas:hover{
+	color: silver;
+	font-family: 'Orbitron', sans-serif;
+}
+
+ul a{
+	text-decoration: none;
+}
+
+.instagram{
+	width: 50px;
+	height: 50px;
+	border-radius: 23px;
+}
+
+.facebook{
+	width: 50px;
+	height: 50px;
+	border-radius:23px;
+}
+
+body{
+	background-color:black;
+}
+
+footer{
+	color:black;
+	text-align: center;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRAVl7e31_U-umrddPwq5aML8S2zzSogV_yCU6BfHS3XhjEg_eA);
+	font-family: 'Orbitron', sans-serif;
+	padding: 3% 1%
+
+}
+footer li{
+	display: inline-block;
+	padding: .5em;
+
+}
+footer section{
+	line-height: 30em;
+}
+
+
+
+
+

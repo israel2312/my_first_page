@@ -1,0 +1,92 @@
+#div{
+	background-image: url(https://newevolutiondesigns.com/images/freebies/retro-wallpaper-35.jpg);
+	max-width: 940px;
+	margin: 0 auto;
+	text-align: center;
+}
+body{
+	background-color:black;
+}
+header{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRAVl7e31_U-umrddPwq5aML8S2zzSogV_yCU6BfHS3XhjEg_eA);
+	font-family: 'Orbitron', sans-serif;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+	font-family: 'Orbitron', sans-serif;
+
+}
+h1{
+	text-align: center;
+	color:black;
+	font-family: 'Architects Daughter', cursive;
+}
+
+nav a.datosnav{
+	color: black;
+}
+nav a.datosnav:hover{
+	color: yellow;
+}
+
+header a.hiper{
+	color:black;
+	text-align: right;
+	font-family: 'Orbitron', sans-serif;
+}
+header a.hiper:hover{
+	color: yellow;
+}
+
+.sangria{
+	line-height: 1px;
+}
+
+nav li{ 
+    display:inline-block;    
+    padding: 1.1em; 
+} 
+
+
+/*+++++++++++++++++++ textooo e imagen*********/
+.texto{
+	color:GREY;
+	font-size: 23px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1.75em;/*em=16px*/
+	text-align:center;
+
+}
+
+#imagen{
+	border-radius:20px;
+	height:500px;
+	width:400px;
+}
+.datos{
+	text-transform:uppercase;
+}
+
+  /************  footer    *************/
+
+footer{
+	color:black;
+	text-align: center;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRAVl7e31_U-umrddPwq5aML8S2zzSogV_yCU6BfHS3XhjEg_eA);
+	font-family: 'Orbitron', sans-serif;
+	font-family:  'Architects Daughter', cursive;
+}
+
+.redessociales{
+	width: 50px;
+	height: 50px;
+	border-radius: 23px;
+
+}
+footer li{
+	display: inline-block;
+	padding: .5em;
+}
